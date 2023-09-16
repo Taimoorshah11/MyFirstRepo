@@ -1,0 +1,9 @@
+this is my first repo
+
+commands
+
+git add *
+git config user.name "your name"
+git config user.email " your email"
+git commit -m "this is commit"
+git push
